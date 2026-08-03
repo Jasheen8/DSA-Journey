@@ -4,7 +4,7 @@
 Used HashMap to store numbers and their indices.
 
 ## Why?
-HashMap allows O(1) lookup.
+HashMap allows O(1) lookup, brootforce
 
 ## Time Complexity
 O(n)
@@ -16,4 +16,4 @@ O(n)
 Initially tried nested loops which gave O(n²).
 
 ## Learning
-HashMap can reduce searching time significantly.
+HashMap can reduce searching time significantly, brute force
